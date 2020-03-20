@@ -1,4 +1,8 @@
-h1 {
+* {
+	font-family: 'Source Code Pro', monospace;
+	font-size: 14pt;
+}
+
+body {
 	color: green;
-	font-size: 20pt;
 }
